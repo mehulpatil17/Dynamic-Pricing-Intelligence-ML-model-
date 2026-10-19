@@ -1,0 +1,6 @@
+Rule,Rows_Removed,Rows_Remaining,Pct_Dataset_Removed
+Rule 1: Remove Exact Duplicates,5268,536641,0.9721189350979592
+Rule 2: Remove Cancellations (InvoiceNo starting with 'C'),9251,527390,1.7071131869003837
+Rule 3: Remove Non-positive Quantity (Quantity <= 0),1336,526054,0.24653585749636933
+Rule 4: Remove Non-positive UnitPrice (UnitPrice <= 0),1176,524878,0.21701060510159456
+"Rule 5: Remove Non-product StockCodes (POST, DOT, M, etc.)",2341,522537,0.4319913491010483

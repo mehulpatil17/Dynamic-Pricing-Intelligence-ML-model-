@@ -1,0 +1,5 @@
+Model,MAE,RMSE
+Baseline: Training Average,446.89,3132.26
+Baseline: Last-Week Demand,390.95,3109.43
+Model: Linear Regression,355.52,3101.94
+Model: Random Forest (Tuned),396.51,3116.72

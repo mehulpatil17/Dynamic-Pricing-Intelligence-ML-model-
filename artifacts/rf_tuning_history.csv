@@ -1,0 +1,7 @@
+Candidate,n_estimators,max_depth,min_samples_leaf,Val_MAE,Val_RMSE,Is_Best
+1,50,6,2,177.9095,288.0817,True
+2,50,10,2,181.635,290.2177,False
+3,100,6,2,178.2258,288.5556,False
+4,100,10,1,183.9206,293.4037,False
+5,100,10,2,182.3353,290.9942,False
+6,100,None,2,190.4321,294.4066,False
